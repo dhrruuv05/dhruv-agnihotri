@@ -22,8 +22,8 @@ I enjoy building user-friendly websites and continuously learning new technologi
 - Python
 
 ### Web Technologies
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 
 ### Computer Fundamentals
